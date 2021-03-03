@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sumit2475 &#8211; Sumit Khandelwal</title>
+	<atom:link href="http://127.0.0.1/wordpress/author/sumit2475/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Data Scientist</description>
+	<lastBuildDate>Wed, 03 Mar 2021 18:59:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Creating RESTful Web APIs using Flask and Python</title>
+		<link>/2021/03/01/creating-restful-web-apis-using-flask-and-python/</link>
+		
+		<dc:creator><![CDATA[sumit2475]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 20:00:54 +0000</pubDate>
+				<category><![CDATA[Web Scrapping]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Flask]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">http://webnus.biz/themes/easyweb/host/?p=8751</guid>
+
+					<description><![CDATA[Flask is a widely used micro web framework for creating APIs in Python. It is a simple yet powerful web framework which is designed to get started quick and easy, with the ability to scale up to complex applications.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8751" class="elementor elementor-8751" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e627b5b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e627b5b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d1e1e2" data-id="5d1e1e2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a2bfa03 elementor-widget elementor-widget-text-editor" data-id="a2bfa03" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #292929; font-family: charter, Georgia, Cambria, 'Times New Roman', Times, serif; font-size: 21px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.063px;">Flask is a widely used micro web framework for creating APIs in Python. It is a simple yet powerful web framework which is designed to get started quick and easy, with the ability to scale up to complex applications.</span></p></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
