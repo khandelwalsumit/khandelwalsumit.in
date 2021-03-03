@@ -10,7 +10,7 @@
 <channel>
 	<title>Flask &#8211; Sumit Khandelwal</title>
 	<atom:link href="http://127.0.0.1/wordpress/tag/flask/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://khandelwalsumit.github.io/khandelwalsumit.in</link>
 	<description>Data Scientist</description>
 	<lastBuildDate>Wed, 03 Mar 2021 18:59:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>Creating RESTful Web APIs using Flask and Python</title>
-		<link>/2021/03/01/creating-restful-web-apis-using-flask-and-python/</link>
+		<link>https://khandelwalsumit.github.io/khandelwalsumit.in/2021/03/01/creating-restful-web-apis-using-flask-and-python/</link>
 		
 		<dc:creator><![CDATA[sumit2475]]></dc:creator>
 		<pubDate>Mon, 01 Mar 2021 20:00:54 +0000</pubDate>
